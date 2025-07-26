@@ -35,12 +35,8 @@ Este é um simples jogo web onde o usuário deve adivinhar um número secreto en
 
 ## Deploy
 
-O projeto pode ser facilmente hospedado em plataformas como o [Vercel](https://vercel.com/).
-
 **Acesse o deploy do projeto aqui:**  
-[https://seu-link-do-vercel.vercel.app](https://seu-link-do-vercel.vercel.app)
-
-> Substitua o link acima pelo endereço gerado após o deploy no Vercel.
+[[https://seu-link-do-vercel.vercel.app](https://seu-link-do-vercel.vercel.app)](https://jogo-do-numero-secreto-orpin-delta.vercel.app/)
 
 ---
 
