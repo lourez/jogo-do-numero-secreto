@@ -4,7 +4,7 @@ Este é um simples jogo web onde o usuário deve adivinhar um número secreto en
 
 ## Funcionalidades
 
-- Gera um número secreto aleatório entre 1 e 10.
+- Gera um número secreto aleatório entre 1 e 100.
 - Informa ao usuário se o chute foi maior ou menor que o número secreto.
 - Conta o número de tentativas até acertar.
 - Permite reiniciar o jogo.
