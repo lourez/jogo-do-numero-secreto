@@ -36,8 +36,7 @@ Este é um simples jogo web onde o usuário deve adivinhar um número secreto en
 ## Deploy
 
 **Acesse o deploy do projeto aqui:**  
-[[https://seu-link-do-vercel.vercel.app](https://seu-link-do-vercel.vercel.app)](https://jogo-do-numero-secreto-orpin-delta.vercel.app/)
-
+https://jogo-do-numero-secreto-orpin-delta.vercel.app/
 ---
 
 Feito com 💙
